@@ -1,4 +1,4 @@
-Seminar-Julia
-=============
+Why Julia?
+==========
 
-Seminar about Julia Programing Language
+Seminar about the Julia Programing Language
